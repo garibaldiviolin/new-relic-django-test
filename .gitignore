@@ -74,3 +74,6 @@ diff
 # Doc:
 docs/index.html
 **/docs/*.html
+
+# New relic
+newrelic.ini
